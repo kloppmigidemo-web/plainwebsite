@@ -1,0 +1,5 @@
+{
+  "name": "Primary Colors Explainer",
+  "description": "An interactive web application that explains the fundamentals of primary colors, covering both additive (RGB) and subtractive (RYB) color systems, based on provided educational material.",
+  "requestFramePermissions": []
+}
